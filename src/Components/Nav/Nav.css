@@ -1,0 +1,20 @@
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+li {
+  width: 8em;
+  margin: 0.2em;
+}
+a {
+  display: block;
+  padding: 0.4em;
+  background-color: #ddd;
+  color: #333;
+  text-decoration: none;
+}
+a:hover {
+  color: #ddd;
+  background-color: #333;
+}

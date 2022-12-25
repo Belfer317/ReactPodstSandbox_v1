@@ -1,0 +1,20 @@
+form * {
+  margin: 0;
+  padding: 0;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+}
+label {
+  display: flex;
+  margin: 1em auto;
+  padding: 0.5em;
+  align-content: center;
+}
+input,
+select {
+  margin-left: 0.5em;
+  font-size: 1.2em;
+}
